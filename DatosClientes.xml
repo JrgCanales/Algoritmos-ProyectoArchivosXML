@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Clientes>
+    <Cliente>
+        <Id>1</Id>
+        <Nombre>Jorge</Nombre>
+        <Identidad>0400-1992-02431</Identidad>
+        <Telefono>9864-1067</Telefono>
+        <Ciudad>San Pedro Sula</Ciudad>
+        <Correo>jorgedjkkka@gmail.com</Correo>
+        <Edad>21</Edad>
+    </Cliente>
+    <Cliente>
+        <Id>2</Id>
+        <Nombre>luis Antonio</Nombre>
+        <Identidad>0401-2208-1579</Identidad>
+        <Telefono>9989-9889</Telefono>
+        <Ciudad>San Pedro Sula</Ciudad>
+        <Correo>luisamador@hotmail.com</Correo>
+        <Edad>26</Edad>
+    </Cliente>
+    
+    <Cliente>
+        <Id>3</Id>
+        <Nombre>josue</Nombre>
+        <Identidad>0401-2689-2514</Identidad>
+        <Telefono>9825-6917</Telefono>
+        <Ciudad>San Pedro Sula</Ciudad>
+        <Correo>josue845@gmail.com</Correo>
+        <Edad>50</Edad>
+    </Cliente>
+</Clientes>
